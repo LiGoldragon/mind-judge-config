@@ -1,0 +1,5 @@
+;; Public prompt manifest for the Mind judge adapter.
+;; (Prompt <concern> <role> <path>)
+[
+  (Prompt accepted-knowledge system prompts/accepted-knowledge/system.md)
+]
